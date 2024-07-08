@@ -1,0 +1,30 @@
+body{
+  background-color: #170026;
+  font-family: Helvetica, sans-serif;
+}
+
+
+.bg-nav{
+  background-color: #170026;
+  color: white;
+}
+
+header{
+  background-image: url(/src/img/header/zante-party.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-gradient{
+  font-size: 72px;
+  background: rgb(241,69,185);
+  background: linear-gradient(90deg, rgba(241,69,185,1) 0%, rgba(248,146,175,1) 15%, rgba(254,220,166,1) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.contenitore{
+  height: 700px;
+  font-family: GroovyBaby;
+}
+
